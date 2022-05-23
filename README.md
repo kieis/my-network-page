@@ -6,7 +6,7 @@ Landing page made with html & css.
 ## Clone
 
 ```bash
-$ git clone https://github.com/kieis/crypto-currency
+$ git clone https://github.com/kieis/my-network-page
 ```
 
 ## Preview
